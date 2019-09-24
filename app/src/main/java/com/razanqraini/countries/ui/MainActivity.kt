@@ -1,7 +1,8 @@
-package com.razanqraini.countries
+package com.razanqraini.countries.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.razanqraini.countries.R
 
 class MainActivity : AppCompatActivity() {
 
