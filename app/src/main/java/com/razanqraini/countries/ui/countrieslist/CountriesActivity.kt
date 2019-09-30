@@ -1,10 +1,10 @@
-package com.razanqraini.countries.ui
+package com.razanqraini.countries.ui.countrieslist
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.razanqraini.countries.R
 
-class MainActivity : AppCompatActivity() {
+class CountriesActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
