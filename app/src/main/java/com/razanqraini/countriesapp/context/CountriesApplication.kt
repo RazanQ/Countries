@@ -1,10 +1,10 @@
-package com.razanqraini.countries.context
+package com.razanqraini.countriesapp.context
 
 import android.app.Activity
 import android.app.Application
 import androidx.fragment.app.Fragment
-import com.razanqraini.countries.di.ApplicationComponent
-import com.razanqraini.countries.di.DaggerApplicationComponent
+import com.razanqraini.countriesapp.di.ApplicationComponent
+import com.razanqraini.countriesapp.di.DaggerApplicationComponent
 import dagger.android.AndroidInjector
 import dagger.android.DispatchingAndroidInjector
 import dagger.android.HasActivityInjector

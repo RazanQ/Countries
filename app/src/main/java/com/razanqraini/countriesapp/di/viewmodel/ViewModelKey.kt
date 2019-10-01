@@ -1,4 +1,4 @@
-package com.razanqraini.countries.di.viewmodel
+package com.razanqraini.countriesapp.di.viewmodel
 
 import androidx.lifecycle.ViewModel
 import dagger.MapKey

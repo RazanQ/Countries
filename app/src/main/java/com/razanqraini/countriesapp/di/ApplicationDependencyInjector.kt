@@ -1,9 +1,9 @@
-package com.razanqraini.countries.di
+package com.razanqraini.countriesapp.di
 
 import android.content.Context
-import com.razanqraini.countries.adapters.BindingAdapters
-import com.razanqraini.countries.context.CountriesApplication
-import com.razanqraini.countries.di.viewmodel.ViewModelFactoryProvider
+import com.razanqraini.countriesapp.adapters.BindingAdapters
+import com.razanqraini.countriesapp.context.CountriesApplication
+import com.razanqraini.countriesapp.di.viewmodel.ViewModelFactoryProvider
 
 object ApplicationDependencyInjector {
 

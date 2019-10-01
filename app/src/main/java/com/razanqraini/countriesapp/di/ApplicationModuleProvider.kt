@@ -1,7 +1,7 @@
-package com.razanqraini.countries.di
+package com.razanqraini.countriesapp.di
 
 import android.content.Context
-import com.razanqraini.countries.context.CountriesApplication
+import com.razanqraini.countriesapp.context.CountriesApplication
 import dagger.Module
 import dagger.Provides
 import javax.inject.Singleton

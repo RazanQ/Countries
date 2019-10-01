@@ -1,7 +1,7 @@
-package com.razanqraini.countries.di.viewmodel
+package com.razanqraini.countriesapp.di.viewmodel
 
 import android.content.Context
-import com.razanqraini.countries.di.ApplicationDependencyInjector
+import com.razanqraini.countriesapp.di.ApplicationDependencyInjector
 import javax.inject.Inject
 
 class ViewModelFactoryProvider(context: Context) {

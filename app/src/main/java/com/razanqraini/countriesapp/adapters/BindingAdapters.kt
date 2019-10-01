@@ -1,4 +1,4 @@
-package com.razanqraini.countries.adapters
+package com.razanqraini.countriesapp.adapters
 
 object BindingAdapters {
 //    @BindingAdapter("imageUrl")

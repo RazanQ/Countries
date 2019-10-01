@@ -1,6 +1,6 @@
-package com.razanqraini.countries.di
+package com.razanqraini.countriesapp.di
 
-import com.razanqraini.countries.ui.countrieslist.CountriesActivity
+import com.razanqraini.countriesapp.ui.countrieslist.CountriesActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 

@@ -1,4 +1,4 @@
-package com.razanqraini.countries.ui.countrieslist
+package com.razanqraini.countriesapp.ui.countrieslist
 
 import androidx.lifecycle.ViewModel
 import javax.inject.Inject
